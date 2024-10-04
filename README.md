@@ -26,9 +26,9 @@ then just click doge that invaded your browser
 Pretty much the same as Chrome.
 Install Firefox add-on available at [Firefox Add-ons][firefoxstore]
 
-### Others 
+### Others + Modern Chrome
 
-New bookmarklet [here][bookmarklet]
+Bookmarklet for other browsers (and modern Chrome because of MV2 being deprecated) [here][bookmarklet]
 
    [chromestore]: https://chrome.google.com/webstore/detail/such-good-doge/ifbchccfedjkkhlnffjckaghjdpchhmo  "Chrome Webstore"
    [firefoxstore]: https://addons.mozilla.org/en-US/firefox/addon/libdoge-firedoge-edition "Firefox Add-ons (new)"
